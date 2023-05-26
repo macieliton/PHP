@@ -27,4 +27,5 @@
             ?>
     </main>
 </body>
+<a href="javascript:history.go(-1)">voltar a página anterior</a>
 </html> 
