@@ -16,8 +16,6 @@
         <input type="number" name="valor" id="valor" value= "$valor">
         <input type="submit" value="calcular">
         </form>
-    </main>
-    <main>
         <?php
            $valor = $_GET['valor'] ?? 0;
             $salario = 1380;
